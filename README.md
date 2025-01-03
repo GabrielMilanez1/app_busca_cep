@@ -13,4 +13,5 @@ Ao clonar o projeto é necessário executar ```npm install``` na raiz do projeto
 Para testar em seu dispositivo android é necessário ativar a depuração por USB e executar ```npx expo run:android``` na raiz do projeto
 
 Para exportar em .apk é necessário executar ```cd android && ./gradlew assemble``` na raiz do projeto
+
 Para exportar em .aab é necessário executar ```cd android && ./gradlew bundlerelease``` na raiz do projeto
